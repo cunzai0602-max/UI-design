@@ -13,7 +13,7 @@ export const categories = [
         tags: 'UI/UX DESIGN · 3D DATA VISUALIZATION', 
         award: '🏆 优秀数字化转型案例 / 行业标杆奖', 
         hasVideo: true,
-        image: '/images/hainan-lng.png' // 替换为真实图片，例如放在 public/images/hainan-lng.png
+        image: '/images/hainan-lng.jpg' // 替换为真实图片，例如放在 public/images/hainan-lng.jpg
       },
       { 
         id: 102, 
@@ -21,7 +21,7 @@ export const categories = [
         tags: 'UI/UX DESIGN · INTERACTION', 
         award: '🏆 创新设计二等奖', 
         hasVideo: false,
-        image: '/images/yuedong-lng.png' // 替换为真实图片
+        image: '/images/yuedong-lng.jpg' // 替换为真实图片
       },
       { 
         id: 103, 
@@ -29,7 +29,7 @@ export const categories = [
         tags: 'DATA VISUALIZATION · DASHBOARD', 
         award: '🏆 安全管理标杆项目', 
         hasVideo: true,
-        image: '/images/qinhuangdao-lng.png' // 替换为真实图片
+        image: '/images/qinhuangdao-lng.jpg' // 替换为真实图片
       },
       { 
         id: 104, 
@@ -37,7 +37,7 @@ export const categories = [
         tags: 'UI/UX DESIGN · B TO B', 
         award: '🏆 最佳企业应用奖', 
         hasVideo: false,
-        image: '/images/smart-meeting.png' // 替换为真实图片
+        image: '/images/smart-meeting.jpg' // 替换为真实图片
       },
       { 
         id: 105, 
@@ -45,7 +45,7 @@ export const categories = [
         tags: 'DATA VISUALIZATION · BIG SCREEN', 
         award: '🏆 视觉设计一等奖', 
         hasVideo: true,
-        image: '/images/chuanbai-screen.png' // 替换为真实图片
+        image: '/images/chuanbai-screen.jpg' // 替换为真实图片
       },
     ]
   },
